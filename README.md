@@ -169,3 +169,13 @@ Feel free to connect for collaboration or project inquiries.
 ## ⭐ If you like this project
 
 Give it a star on GitHub and feel free to explore the code!
+
+📞 Contact For development or customization services:
+
+📧 Email: skmahapatra033@gmail.com 🌐 Portfolio: https://github.com/skmahapatra033-coder/ 📄 License
+
+This project is available for personal and commercial use.
+
+⭐ Support
+
+If you find this project useful, please ⭐ the repository.
